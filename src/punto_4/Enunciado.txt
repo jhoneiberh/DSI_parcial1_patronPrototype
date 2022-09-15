@@ -1,0 +1,7 @@
+Su grupo debe implementar un sistema de información para modelar una constructora que tiene el
+proyecto de la urbanización Encanto del Valle con 4 unidades residenciales que tienen el mismo modelo
+de apartamento: Los Helechos, Las Palmas, Las Heliconias y Los Tulipanes. 
+
+Utilizando alguno de los Patrones vistos en clase, diseñe un proyecto NetBeans Java ANT llamado
+Punto_4 que modele de manera general la construcción de los apartamentos para cada una de las
+unidades
